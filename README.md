@@ -12,17 +12,7 @@ EAMS is a web application used for HRM of employees with robust authentication a
 - Optimal usage of laravel [advanced routing](https://laravel.com/docs/4.2/routing)
 - Fully responsive website across all devices and screen sizes.
 
-EAMS is fast and easy to use and can be customized easily according to client project
-
-<img src="./readme_images/login.png" align="center">
-<p align="center">Login Page</p>
-
-<img src="./readme_images/admin.index.png" align="center">
-<p align="center">Admin Dashboard</p>
-
-<img src="./readme_images/employee.index.png" align="center">
-<p align="center">Employee Dashboard</p>
-
+KS HRMS is fast and easy to use and can be customized easily according to client project
 ## Usage
 
 ### Functions
