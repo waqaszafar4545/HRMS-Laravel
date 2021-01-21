@@ -1,4 +1,4 @@
-## About EAMS
+## About KS HRMS
 
 EAMS is a web application used for HRM of employees with robust authentication and access manangement system made in lastest Laravel 7.25 Framework and MySQL.
 
@@ -33,13 +33,6 @@ It has two sides employee and admin side.
 	- Register attendance [The images have 127.0.0.1 as IP because it was being tested locally, on live server it will catch client IP using laravel method Request()->ip]
 		- While recording user public IPv4 and current location in address format using reverse geocoding.
 	- List attendances
-
-	<img src="./readme_images/employee.attendance.png" align="center">
-	<p align="center">Register page</p>
-	<img src="./readme_images/employee.attendance.entry.png" align="center">
-	<p align="center">Registered entry</p>
-	<img src="./readme_images/employee.attendance.exit.png" align="center">
-	<p align="center">Registered exit</p>
 - Leaves
 	- Apply for leaves
 	- Review leave status applied
@@ -52,21 +45,10 @@ It has two sides employee and admin side.
 - Profile
 	- Set profile information
 	- Change password
-	<img src="./readme_images/employee.profile.png" align="center">
-	<p align="center">Employee profile</p>
-**Admin** has:
 - Employee module
 	- Add employee
-	<img src="./readme_images/admin.add.employee.png" align="center">
-	<p align="center">Employee profile</p>
-
 	- View employees
-	<img src="./readme_images/admin.list.employee.png" align="center">
-	<p align="center">Employee profile</p>
-
 	- Monitor employee attendance
-	<img src="./readme_images/admin.attendance.employee.png" align="center">
-	<p align="center">Employee profile</p>
 - Authorizate
 	- Leaves applied
 	- Expenses claimed
@@ -104,4 +86,4 @@ Following are the assets used for this project
 -	[Intervention/Image](http://image.intervention.io/getting_started/installation) package in laravel for image upload optimisaton
 -	[HTML Geolocation API](https://www.w3schools.com/html/html5_geolocation.asp) which works only on SSL, for using make sure your domain is SSL certified.
 -	[Nominatim](https://nominatim.org/) an open source geocoding API for reverse geocoding.
-# HRMS-Laravel
+# KS HRMS-Laravel
